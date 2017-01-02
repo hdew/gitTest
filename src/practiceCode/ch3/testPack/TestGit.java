@@ -7,6 +7,6 @@ public class TestGit {
     // main function for test
     public static void main(String[] args) {
         System.out.println("hello world!");
-        System.out.println("this line is by gg");
+        System.out.println("this line is from ll");
     }
 }
