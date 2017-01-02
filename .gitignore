@@ -1,0 +1,11 @@
+# exclude non-code related folders
+.idea/
+out/
+src/testCode/testCode/
+
+# exclude html files
+*.html
+*.js
+*.css
+*.xml
+*.DS_Store
