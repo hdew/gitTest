@@ -1,4 +1,4 @@
-package testCode;
+package practiceCode.ch4.Counter;
 
 /**
  * Created by lulu on 12/29/16.

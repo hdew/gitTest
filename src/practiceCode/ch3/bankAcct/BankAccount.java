@@ -1,4 +1,4 @@
-package testCode;
+package practiceCode.ch3.bankAcct;
 
 /**
   A bank account has a blance that can be changed by deposits and withdrawals
